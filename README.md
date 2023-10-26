@@ -9,7 +9,6 @@ This README file provides instructions for using two Python notebook scripts to 
 ## Installation
 
     Clone the repository to your local machine.
-    Install the required Python packages by running pip install -r requirements.txt in your terminal.
 
 ## Usage
  - Script 1: California_Housing_Model.ipynb

@@ -21,6 +21,7 @@ This script downloads the California Housing dataset and trains a regression mod
 The script will download the California Housing dataset using scikit-learn and split it into training and testing sets. It will then train a regression model on the training set and evaluate its performance on the testing set. Finally, it will save the fitted model to a file.
 
  - Script 2: CallLambda.ipynb
+
 This script calls a Lambda AWS function to get the estimated price based on the fitted model.
 
     Open CallLambda.ipynb in your preferred Python notebook editor.
